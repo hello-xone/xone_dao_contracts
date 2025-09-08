@@ -1,0 +1,5 @@
+npx hardhat verify --network xonetest 0xdaa6Cd4355919e9c0c1fC131aCf485C5cFaBca0c
+npx hardhat verify --network xonetest 0xC75AE31a0F889bc9A97ca516eB5b0b3736a1AD37
+npx hardhat verify --network xonetest 0xcA579A709f46F4777Edc5f2D2C3CC5d19cf63C38
+npx hardhat verify --network xonetest 0xB7D00F9826Ed7dd1628720C79ed313379B7D6f76
+npx hardhat verify --network xonetest 0x9e8B2EaDaf6BD5e6C2C2f14d224763b2de1D4b18
